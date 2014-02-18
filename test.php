@@ -1,9 +1,4 @@
 <?php
-
-	
-?>
-
-<?php
 	require_once ('lib/DB.php');
 	$db=new DB();
 
