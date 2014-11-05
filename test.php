@@ -12,3 +12,5 @@
 
 	echo date("m",strtotime($r[0]['date']));
 ?>
+
+<?php echo "Test Git"; ?>
