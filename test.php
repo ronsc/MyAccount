@@ -14,3 +14,5 @@
 ?>
 
 <?php echo "Test Git"; ?>
+
+<?php echo "Test Pull Data From Github"; ?>
